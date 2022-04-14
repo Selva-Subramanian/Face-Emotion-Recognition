@@ -1,3 +1,10 @@
+numpy
+pandas
+scipy
+face_recognition
+imutils
+streamlit
+
 opencv-python-headless
 PyArrow
 absl-py
